@@ -1,0 +1,25 @@
+_repo: Fort-Lafayette-or-Love-and-Secession--13-A-Novel_12452
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Wood, Benjamin
+    birthdate: 1820
+    deathdate: 1900
+    gutenberg_agent_id: '4377'
+    url: http://www.gutenberg.org/2009/agents/4377
+    wikipedia: http://en.wikipedia.org/wiki/Benjamin_Wood
+description: ''
+gutenberg_issued: '2004-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12452'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States -- History -- Civil War, 1861-1865 -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: "Fort Lafayette or, Love and Secession\r\nA Novel"
+url: http://www.gutenberg.org/ebooks/12452
